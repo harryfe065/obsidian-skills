@@ -20,7 +20,7 @@ In Muse, ask it to install the skills from this repository. The `obsidian-cli` s
 
 In Cursor, install [Obsidian from the Cursor Marketplace](https://cursor.com/marketplace/obsidian).
 
-In Hermes Agent, run `hermes plugins install obsidian`.
+In Hermes Agent, install [Obsidian from the Hermes Marketplace](https://hermes-agent.nousresearch.com/marketplace/obsidian) or run `hermes plugins install obsidian`.
 
 In Kiro, run `kiro-cli powers install obsidian`.
 
